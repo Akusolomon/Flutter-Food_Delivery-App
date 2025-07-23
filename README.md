@@ -1,16 +1,52 @@
 # deliver
 
-A new Flutter project.
+## Getting Starte
 
-## Getting Started
+# 🍔 Flutter Food Delivery UI
 
-This project is a starting point for a Flutter application.
+A sleek and modern **Flutter Food Delivery UI** project — designed to showcase beautiful layouts, reusable components, and smooth interactions for a food delivery mobile app.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 🏠 Home page with categories & featured items
+- 🍽️ Product detail view with description and add-to-cart
+- 🛒 Shopping cart interface
+- 🔍 Search functionality
+- 👤 Profile page
+
+---
+
+## 📱 Screenshots
+
+| Home Page                               | Product Detail                                      | Cart Page                                   |
+| --------------------------------------- | --------------------------------------------------- | ------------------------------------------- |
+| ![Home](../assets/screenshots/home.jpg) | ![Product Detail](../assets/screenshots/detail.jpg) | ![Side Bar](../assets/screenshots/menu.jpg) |
+
+---
+
+## 🛠️ Tech Stack
+
+- **Flutter** (Dart)
+- **Bloc** (State Management)
+- **Google Fonts**
+- **Responsive Design**
+
+---
+
+## 🔧 Getting Started
+
+### Prerequisites
+
+- Flutter SDK:
+- Android Studio / VS Code
+
+### Installation
+
+```bash
+git clone https://github.com/your-username/flutter-food-delivery-ui.git
+cd flutter-food-delivery-ui
+flutter pub get
+flutter run
+```
