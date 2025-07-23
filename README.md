@@ -20,9 +20,9 @@ A sleek and modern **Flutter Food Delivery UI** project — designed to showcase
 
 ## 📱 Screenshots
 
-| Home Page                               | Product Detail                                      | Cart Page                                   |
-| --------------------------------------- | --------------------------------------------------- | ------------------------------------------- |
-| ![Home](../assets/screenshots/home.jpg) | ![Product Detail](../assets/screenshots/detail.jpg) | ![Side Bar](../assets/screenshots/menu.jpg) |
+| Home Page                             | Product Detail                                    | Cart Page                                 |
+| ------------------------------------- | ------------------------------------------------- | ----------------------------------------- |
+| ![Home](/assets/screenshots/home.jpg) | ![Product Detail](/assets/screenshots/detail.jpg) | ![Side Bar](/assets/screenshots/menu.jpg) |
 
 ---
 
